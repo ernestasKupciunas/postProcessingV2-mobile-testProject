@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/PostProcessingv2MainTestingScene.unity
+  isLoaded: 1
+  isActive: 1
